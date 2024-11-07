@@ -4,8 +4,10 @@
 This project aims to predict the risk of forest fires using meteorological data, helping improve resource allocation and public awareness. Originally focused on Portugal's national forests, this model explores fire risk prediction using binary logistic regression to classify areas as high or low fire risk. The project was developed during the Spring 2023 semester. 
 
 # 👥 Authors
-Madhuri, Will, Jinnie, Emir, Tianze
 Mentor: Ethan
+
+Madhuri, Will, Jinnie, Emir, Tianze
+
 
 # 🔥 What is a Forest Fire?
 Forest fires, also known as wildfires or bushfires, are uncontrolled fires in combustible vegetation areas. They often occur in dry regions with high temperatures and can have severe economic, environmental, and social impacts, especially as climate change intensifies their frequency and scale.
